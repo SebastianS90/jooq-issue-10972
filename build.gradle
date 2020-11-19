@@ -11,4 +11,5 @@ repositories {
 dependencies {
     errorprone 'com.google.errorprone:error_prone_core:2.4.0'
     annotationProcessor 'org.jooq:jooq-checker:3.14.4-SNAPSHOT'
+    implementation 'org.jooq:jooq:3.14.4-SNAPSHOT'
 }
